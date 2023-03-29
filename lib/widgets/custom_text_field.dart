@@ -4,7 +4,7 @@ import '../constants.dart';
 
 class CustomTextField extends StatelessWidget {
   CustomTextField({required this.hintText , required this.obscureText});
-  String hintText;
+  String hintText; 
   bool obscureText; 
 
   @override
